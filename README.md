@@ -2,7 +2,7 @@
 
 This repo contains notebooks and related code for Udacity's Deep Learning with PyTorch lesson. This lesson appears in our [AI Programming with Python Nanodegree program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
-* **1.** 1.fully-connected neural networks with PyTorch for MNIST-dataset
+* **1.** fully-connected neural networks with PyTorch for MNIST-dataset
 * **Part 2:** 
 * **Part 3:** How to train a fully-connected network with backpropagation on MNIST
 * **Part 4:** Exercise - train a neural network on Fashion-MNIST
