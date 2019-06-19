@@ -8,3 +8,4 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 * **3.** Introduction to Transfer Learning with DenseNet
 * **4.** CNN with Cifar10(Split the training data into a training and validation set, convolutional and pooling layers in CNN, save model if validation loss has decreased, and some visualization methods )
 * **5.** VGG16_Transfer_Learning
+* **6.** Autoencoders_MNIST (Linear,CNN) and Denoising (CNN)
