@@ -10,5 +10,6 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 * **5.** VGG16_Transfer_Learning.
 * **6.** Autoencoders_MNIST (Linear,CNN) and Denoising (CNN).
 * **7.** Style Transfer with VGG19.
+* **8.** Character_Level_LSTM
 * **A.** PROJECT-1 Predicting Bike-Sharing DataB.
 * **B.** PROJECT-2 Dog-Breed Classifier.
