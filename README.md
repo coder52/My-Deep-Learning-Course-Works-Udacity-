@@ -13,5 +13,7 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 * **8.** Character_Level_LSTM
 * **9_1.** Word2Vec_LSTM, Word Embedding, Skip_Grams model
 * **9_1.** Word2Vec_LSTM, Word Embedding, Skip_Grams model, Negative_Sampling
+* **10.** Sentiment_LSTM, Word Embedding
 * **A.** PROJECT-1 Predicting Bike-Sharing DataB.
-* **B.** PROJECT-2 Dog-Breed Classifier.
+* **B.** PROJECT-2 Dog-Breed Classifier.C. PROJECT-3 Tv Script Generation
+* **C.** PROJECT-3 Tv Script Generation
