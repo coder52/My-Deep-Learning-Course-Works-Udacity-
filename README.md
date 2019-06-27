@@ -16,6 +16,7 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 * **10.** Sentiment_LSTM, Word Embedding
 * **11.** GAN-MNIST
 * **12.** DCGAN-SVHN
+* **13.** CycleGAN
 * **A.** PROJECT-1 Predicting Bike-Sharing DataB.
 * **B.** PROJECT-2 Dog-Breed Classifier.C. PROJECT-3 Tv Script Generation
 * **C.** PROJECT-3 Tv Script Generation
